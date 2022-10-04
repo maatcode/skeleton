@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "classmap": [
+            "./module"
+        ]
+    },
+    "require": {
+        "maatcode/maatcode-application": "^1.0",
+        "maatcode/maatcode-tools": "^1.0",
+        "maatcode/maatcode-session": "^1.0",
+        "maatcode/maatcode-view": "^1.0",
+        "maatcode/maatcode-db": "^1.0"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
