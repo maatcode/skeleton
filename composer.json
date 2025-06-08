@@ -1,4 +1,7 @@
 {
+  "name": "maatcode/maatcode-skeleton",
+  "description": "Maatcode Skeleton Application",
+  "minimum-stability": "stable",
     "autoload": {
         "classmap": [
             "./module"
