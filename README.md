@@ -1,1 +1,1 @@
-composer require maatcode/maatcode-skeleton
+Maatcode framework skeleton
